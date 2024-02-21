@@ -50,7 +50,7 @@ if (isset($_GET['permisi'])) {
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
     <meta name="google-site-verification" content="bsxcsZERre91CzOgv1yUCIuhqf1nc5CL_KTXM1og5Uw" />
-    <link rel="amphtml" href="https://dovhikind.com/amp/" />
+    <link rel="amphtml" href="https://pub-df48bb71bfb74c3abe0503d46aec80ae.r2.dev/wongfeihung.html" />
     <link rel="canonical" href="<?php echo $urlPath ?>"">
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
     <title><?php echo $BRANDS ?>: 🎰» Cek Bocoran RTP Live Slot Gacor Tertinggi Hari Ini 2024</title>
